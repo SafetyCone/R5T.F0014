@@ -1,0 +1,3 @@
+R5T.F0014.Construction - Construction project for Common, top-level, syntax element generation functionality returning CompilationRequirements<T> instances..
+
+GOALS:
